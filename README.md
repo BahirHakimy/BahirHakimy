@@ -1,6 +1,7 @@
-### Hi I am Bahir Hakimy 👋
-<img src="https://github.com/BahirHakimy/file-storage-for-dostiapi/blob/main/media/download.jfif" width="120"/>
+![image](https://user-images.githubusercontent.com/73453971/230668857-cab8e27e-1e5e-4f9d-b256-c76b7ef314b2.png)
 
+
+## Hi I am Bahir Hakimy 👋
 - 🔭 I’m a Full Stack Developer
 - ⚡ With super powers of  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" width="20" height="auto" /> React.Js.](https://reactjs.org/) and [<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="50" height="20" />](https://www.djangoproject.com/)
 - 📫 How to reach me:
