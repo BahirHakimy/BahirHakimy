@@ -5,9 +5,10 @@
 - 🔭 I’m a Full Stack Developer
 - ⚡ With super powers of  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" width="20" height="auto" /> React.Js.](https://reactjs.org/) and [<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="50" height="20" />](https://www.djangoproject.com/)
 - 📫 How to reach me:
-  - [<img src="https://i.stack.imgur.com/gVE0j.png" width='20'/> LinkedIn](https://www.linkedin.com/in/bahir-hakimy)
-  - [<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width='20'/> Email](mailto:bahirhakimy2015@gmail.com)
-  - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" width='20'/> Twitter](https://twitter.com/bahir_hakimi_)
+- <a href='https://www.linkedin.com/in/bahir-hakimi/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/Bahir_Hakimi-100000?style=flat&logo=LinkedIn&logoColor=white&labelColor=0099FF&color=0099FF'/></a>
+- <a href='mailto:bahirhakimy2020@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Bahir_Hakimi-100000?style=flat&logo=Gmail&logoColor=FFFFFF&labelColor=FF2C10&color=FF2C10'/></a>
+- <a href='https://twitter.com/bahir_hakimi_' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Bahir_Hakimi-100000?style=flat&logo=Twitter&logoColor=FFFFFF&labelColor=0DE3FF&color=0DE3FF'/></a>
+
 
 
 ### Languages
