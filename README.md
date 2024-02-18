@@ -30,7 +30,6 @@
 ```javascript
 const bahirHakimi = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["he", "him"],
   code: [JavaScript, React, Redux, Ruby on Rails, Python, Django, HTML/CSS,
   Tailwind CSS],
   askMeAbout: [Javascript, Space, Chess],
