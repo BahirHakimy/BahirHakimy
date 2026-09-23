@@ -1,50 +1,72 @@
-![image](https://user-images.githubusercontent.com/73453971/230668857-cab8e27e-1e5e-4f9d-b256-c76b7ef314b2.png)
+<a href="https://bahir.dev"><img src="assets/hero.svg" alt="Hi, I'm Bahir Hakimi, a full-stack developer from Kabul" width="100%"></a>
 
-
-## Hi I am Bahir Hakimi 👋
-- 🔭 I’m a Full Stack Developer
-- ⚡ With super powers of  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" width="20" height="auto" /> React.Js.](https://reactjs.org/) and [<img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" width="50" height="20" />](https://www.djangoproject.com/)
-- 📫 How to reach me:
-- <a href='https://www.linkedin.com/in/bahir-hakimi/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/Bahir_Hakimi-100000?style=flat&logo=LinkedIn&logoColor=white&labelColor=0099FF&color=0099FF'/></a>
-- <a href='mailto:bahirhakimy2020@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Bahir_Hakimi-100000?style=flat&logo=Gmail&logoColor=FFFFFF&labelColor=FF2C10&color=FF2C10'/></a>
-- <a href='https://twitter.com/bahir_hakimi_' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Bahir_Hakimi-100000?style=flat&logo=Twitter&logoColor=FFFFFF&labelColor=0DE3FF&color=0DE3FF'/></a>
-
-
-
-### Languages
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
-
-### Front End Development
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
-![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
-![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg)
-
-### Back End Development
-![Django](https://icongr.am/devicon/django-original.svg?size=128&color=currentColor)
-
-### 🚀 A little more about me...  
-
-```javascript
-const bahirHakimi = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [JavaScript, React, Redux, Ruby on Rails, Python, Django, HTML/CSS,
-  Tailwind CSS],
-  askMeAbout: [Javascript, Space, Chess],
-  challenge: "I am honing my React skills and picking up TypeScript",
-}
-```
-
-
-<div align='left'>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BahirHakimy&show_icons=true&theme=onedark)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BahirHakimy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BahirHakimy/count.svg" />
+<p align="center">
+  <a href="https://bahir.dev"><img alt="Portfolio" src="https://img.shields.io/badge/bahir.dev-0b1026?style=for-the-badge&logo=googlechrome&logoColor=22d3ee"></a>
+  <a href="https://www.linkedin.com/in/bahir-hakimi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:bahirhakimy2020@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/bahir_hakimi_"><img alt="X / Twitter" src="https://img.shields.io/badge/@bahir__hakimi__-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://medium.com/@bahir-hakimi"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
+
+<img src="assets/terminal.svg" alt="$ cat bahir.js: Odoo Developer at NETLINKS; stack Python, Django, Odoo, React, TypeScript, PostgreSQL; ask me about JavaScript, space and chess" width="100%">
+
+### 🛠️ Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,django,react,ts,js,nextjs,redux,tailwind,postgres,docker,git,linux&perline=12" alt="Python, Django, React, TypeScript, JavaScript, Next.js, Redux, Tailwind, PostgreSQL, Docker, Git, Linux">
+  <br>
+  <img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white">
+  <img alt="Django REST Framework" src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white">
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white">
+</p>
+
+### 🚀 Launch log
+
+| | Mission | Payload |
+| :-: | :-- | :-- |
+| 🏢 | **Odoo Developer**, [NETLINKS](https://github.com/NETLINKSAF) · 2023 → now | HR, payroll and procurement ERPs on Odoo + PostgreSQL |
+| 🚗 | [**AutoRent**](https://github.com/BahirHakimy/autorent) | Car rental with maps and Stripe checkout (DRF + React) |
+| 💬 | [**Doosti**](https://github.com/BahirHakimy/DoostiApp) | Social app: chat, file sharing, friend requests (Django + React) |
+| 🌦️ | [**The Sky**](https://github.com/BahirHakimy/the-sky) | Weather for wherever you are, via OpenWeather |
+| 🧑‍🏫 | **Mentor**, Microverse · 2023 | Code reviews and support for junior devs |
+
+<details>
+<summary><b>📊 Stats</b></summary>
+<br>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BahirHakimy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1026" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahirHakimy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1026" alt="Top languages">
+</p>
+</details>
+
+<!-- CHESS:START -->
+
+## ♟️ Community Chess
+
+One game, played by everyone who visits. **Click a move below** to open an issue, then hit *Create*. A GitHub Action plays it and redraws the board. You can't move twice in a row, so bring a friend.
+
+<p align="center"><b>Game #1</b>, move 1: <b>⚪ White</b> to play</p>
+
+<p align="center"><img src="game/board.svg" width="420" alt="Current chess position"></p>
+
+<details open>
+<summary><b>Pick a move (20 legal)</b></summary>
+
+| Piece | From | Moves |
+| :-- | :-: | :-- |
+| ♘ Knight | `b1` | [Na3](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cb1a3&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) · [Nc3](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cb1c3&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) |
+| ♘ Knight | `g1` | [Nf3](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cg1f3&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) · [Nh3](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cg1h3&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) |
+| ♙ Pawn | `a2` | [a3](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Ca2a3&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) · [a4](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Ca2a4&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) |
+| ♙ Pawn | `b2` | [b3](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cb2b3&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) · [b4](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cb2b4&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) |
+| ♙ Pawn | `c2` | [c3](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cc2c3&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) · [c4](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cc2c4&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) |
+| ♙ Pawn | `d2` | [d3](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cd2d3&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) · [d4](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cd2d4&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) |
+| ♙ Pawn | `e2` | [e3](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Ce2e3&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) · [e4](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Ce2e4&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) |
+| ♙ Pawn | `f2` | [f3](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cf2f3&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) · [f4](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cf2f4&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) |
+| ♙ Pawn | `g2` | [g3](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cg2g3&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) · [g4](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Cg2g4&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) |
+| ♙ Pawn | `h2` | [h3](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Ch2h3&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) · [h4](https://github.com/BahirHakimy/BahirHakimy/issues/new?title=chess%7Cmove%7Ch2h4&body=Just%20press%20Create.%20A%20bot%20plays%20your%20move%20within%20a%20minute.) |
+
+</details>
+
+<!-- CHESS:END -->
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=BahirHakimy&label=visitors&color=7b68b5&style=flat-square" alt="Profile views"></p>

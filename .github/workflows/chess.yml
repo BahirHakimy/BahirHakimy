@@ -1,0 +1,63 @@
+name: Community Chess
+
+on:
+  issues:
+    types: [opened]
+
+# One move at a time, so two players can't both move from the same position.
+concurrency:
+  group: chess
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'chess|')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install chess==1.11.2
+
+      - name: Play the move
+        id: play
+        env:
+          # Passed via env, never interpolated into the script: issue titles are user input.
+          TITLE: ${{ github.event.issue.title }}
+          PLAYER: ${{ github.event.issue.user.login }}
+          REPO: ${{ github.repository }}
+          OWNER: ${{ github.repository_owner }}
+        run: python game/play.py
+
+      - name: Commit the new position
+        if: steps.play.outputs.changed == 'true'
+        env:
+          MESSAGE: ${{ steps.play.outputs.message }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md game/state.json game/board.svg
+          git commit -m "$MESSAGE"
+          git push
+
+      - name: Reply and close the issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ github.event.issue.number }}
+          CHANGED: ${{ steps.play.outputs.changed }}
+        run: |
+          if [ -f game/.reply.md ] && [ "${{ job.status }}" = "success" ]; then
+            gh issue comment "$NUMBER" --body-file game/.reply.md
+          else
+            gh issue comment "$NUMBER" --body "Something went wrong while playing that move 🤖💥 Please try again in a minute."
+          fi
+          if [ "$CHANGED" = "true" ]; then reason=completed; else reason="not planned"; fi
+          gh issue close "$NUMBER" --reason "$reason"
