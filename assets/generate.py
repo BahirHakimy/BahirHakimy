@@ -44,10 +44,11 @@ def hero():
 
     techs = [
         ("React", "#61dafb"),
-        ("Django", "#44b78b"),
-        ("Odoo", "#c792ea"),
-        ("Python", "#ffd343"),
         ("TypeScript", "#3b82f6"),
+        ("Node.js", "#6cc24a"),
+        ("Next.js", "#e6edf3"),
+        ("Django", "#44b78b"),
+        ("AWS", "#ff9900"),
         ("PostgreSQL", "#7dd3fc"),
     ]
     orbiters = []
@@ -75,9 +76,9 @@ def hero():
     type_end = type_start + type_dur
 
     roles = [
-        "Full-Stack Developer",
-        "Odoo Developer @ NETLINKS",
-        "React × Django × TypeScript",
+        "Senior Full Stack Engineer",
+        "Building hr.jobs.af @ NETLINKS",
+        "TypeScript × React × Node × Django",
         "Chess player · Space nerd",
     ]
     role_cycle = 3.2 * len(roles)
@@ -209,18 +210,19 @@ def tok(*parts):
 
 LINES = [
     ("cmd", [("ok", "➜ "), ("key", "~ "), ("txt", "whoami")]),
-    ("out", [("txt", "bahir-hakimi · full-stack developer · kabul, afghanistan")]),
+    ("out", [("txt", "bahir-hakimi · senior full stack engineer · kabul, afghanistan")]),
     ("cmd", [("ok", "➜ "), ("key", "~ "), ("txt", "cat bahir.js")]),
     ("out", [("kw", "const "), ("var", "bahir"), ("pun", " = {")]),
-    ("out", [("key", "  role"), ("pun", ": "), ("str", '"Odoo Developer @ NETLINKS"'), ("pun", ",")]),
-    ("out", [("key", "  stack"), ("pun", ": ["), ("str", '"Python"'), ("pun", ", "), ("str", '"Django"'), ("pun", ", "),
-             ("str", '"Odoo"'), ("pun", ", "), ("str", '"React"'), ("pun", ", "), ("str", '"TypeScript"'), ("pun", ", "),
-             ("str", '"PostgreSQL"'), ("pun", "],")]),
-    ("out", [("key", "  building"), ("pun", ": "), ("str", '"ERPs by day, AI agents by night"'), ("pun", ",")]),
-    ("out", [("key", "  askMeAbout"), ("pun", ": ["), ("str", '"JavaScript"'), ("pun", ", "), ("str", '"Space"'),
-             ("pun", ", "), ("str", '"Chess"'), ("pun", "],")]),
-    ("out", [("key", "  previously"), ("pun", ": ["), ("str", '"Microverse mentor"'), ("pun", ", "),
-             ("str", '"KUDSIC backend dev"'), ("pun", "],")]),
+    ("out", [("key", "  role"), ("pun", ": "), ("str", '"Senior Full Stack Engineer @ NETLINKS"'), ("pun", ","),
+             ("com", "  // 5+ years shipping")]),
+    ("out", [("key", "  building"), ("pun", ": ["), ("str", '"hr.jobs.af"'), ("pun", ", "), ("str", '"jobs.af"'),
+             ("pun", ", "), ("str", '"NGO HRMIS"'), ("pun", "],")]),
+    ("out", [("key", "  stack"), ("pun", ": ["), ("str", '"TypeScript"'), ("pun", ", "), ("str", '"React"'), ("pun", ", "),
+             ("str", '"Next.js"'), ("pun", ", "), ("str", '"Node.js"'), ("pun", ", "), ("str", '"Django"'), ("pun", ", "),
+             ("str", '"AWS"'), ("pun", "],")]),
+    ("out", [("key", "  passions"), ("pun", ": ["), ("str", '"cybersecurity"'), ("pun", ", "),
+             ("str", '"human-centric design"'), ("pun", ", "), ("str", '"mentoring"'), ("pun", "],")]),
+    ("out", [("key", "  askMeAbout"), ("pun", ": ["), ("str", '"Space"'), ("pun", ", "), ("str", '"Chess"'), ("pun", "],")]),
     ("out", [("key", "  challenge"), ("pun", ": "), ("str", '"beat me at chess below 👇"'), ("pun", ",")]),
     ("out", [("pun", "};")]),
 ]
