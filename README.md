@@ -18,7 +18,6 @@
   <img alt="Django REST Framework" src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white">
   <img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white">
   <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white">
-  <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white">
 </p>
 
 ### 🚀 Launch log
